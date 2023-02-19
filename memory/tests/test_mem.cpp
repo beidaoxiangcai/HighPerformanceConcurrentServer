@@ -102,6 +102,7 @@ int main()
     print_list_content();
 
     LOG_INFO("hello, world!!!\n");
+    LOG_INFO("hello hello hello~~~~~~~~~~\n");
 
     return 0;
 }
