@@ -101,5 +101,7 @@ int main()
     print_list_size();
     print_list_content();
 
+    LOG_INFO("hello, world!!!\n");
+
     return 0;
 }
